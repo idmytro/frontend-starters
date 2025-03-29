@@ -3,7 +3,7 @@
 ## Vue3
 
 ```bash
-npx degit idmytro/vue-starters/3/_vite-template-2025-03-eslint-antfu-unocss-pnpm .
+npx degit idmytro/vue-starters/3/_unplugin-vue-router-2025--clean .
 ```
 
 ## Vue2
