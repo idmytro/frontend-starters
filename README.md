@@ -14,6 +14,10 @@ npx degit idmytro/vue-starters/3/_vite-template-2025-03-eslint-antfu-unocss-pnpm
 
 ## Svelte4
 
+```bash
+npx degit idmytro/svelte-starters/_4-no-prettier-eslint-plus-uno-classic--ts-nav .
+```
+
 ## React
 
 ## Next
