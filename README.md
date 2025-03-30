@@ -10,6 +10,10 @@ npx degit idmytro/vue-starters/3/_unplugin-vue-router-2025--clean .
 
 ## Nuxt
 
+```bash
+npx degit idmytro/nuxt-starters/_3.16.1-bun-eslint-antfu-unocss .
+```
+
 ## Svelte5
 
 ## Svelte4
